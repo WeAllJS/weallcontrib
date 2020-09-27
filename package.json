@@ -28,12 +28,12 @@
   "license": "CC0-1.0",
   "dependencies": {
     "hosted-git-info": "^2.2.0",
-    "yargs": "^6.6.0"
+    "yargs": "^13.0.0"
   },
   "devDependencies": {
-    "nyc": "^10.0.0",
+    "nyc": "^14.0.0",
     "standard": "^8.6.0",
-    "tap": "^8.0.1",
+    "tap": "^12.6.4",
     "weallbehave": "^1.0.0"
   }
 }
